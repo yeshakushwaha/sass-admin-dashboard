@@ -13,7 +13,7 @@
  
  ### Project Banner
  
- ![Sass Admin Dashboard](../../readme-images/ProjectBanner.png "Project Banner")
+ ![Sass Admin Dashboard](./ProjectBanner.png "Project Banner")
 
  <br />
  <br />
