@@ -112,7 +112,7 @@ const AppSidebar = () => {
 
                 <Button
                   variant='ghost'
-                  size='icon-sm'
+                  size='sm'
                   aria-label='logout'
                 >
                   <LogOutIcon />
