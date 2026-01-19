@@ -13,7 +13,7 @@
  
  ### Project Banner
  
-<img src="./ProjectBanner.png" alt="Project Banner" />
+<img src="https://image2url.com/r2/default/files/1768828478061-d650add6-cb69-4f5f-b956-bb7e50448773.png" alt="Project Banner" />
 
  <br />
  <br />
