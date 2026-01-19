@@ -1,4 +1,4 @@
-SaaS Admin Dashboard with React, Shadcn UI & TypeScript
+<h1>SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h1>
 
 🛠️ Tech Stack Used:
  ➖ React (with TypeScript)
