@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  <div align="center">
+=======
+<h1>SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h1>
+>>>>>>> 04e853534458235f6137df0c59eaa44fcb7d7cb2
 
   <h2 align="center">SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h2>
 
