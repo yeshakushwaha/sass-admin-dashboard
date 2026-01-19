@@ -13,11 +13,7 @@
  
  ### Project Banner
  
-<<<<<<< HEAD
- ![Sass Admin Dashboard](./ProjectBanner.png "Project Banner")
-=======
- ![Sass Admin Dashboard](./readme-images/ProjectBanner.png "Project Banner")
->>>>>>> 766bf3288ecff71da96bf3aa0820f4648ef33bf3
+<img src="./ProjectBanner.png" alt="Project Banner" />
 
  <br />
  <br />
