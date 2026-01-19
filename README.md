@@ -1,10 +1,5 @@
-<<<<<<< HEAD
- <div align="center">
-=======
-<h1>SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h1>
->>>>>>> 04e853534458235f6137df0c59eaa44fcb7d7cb2
-
-  <h2 align="center">SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h2>
+<div align="center">
+<h1 align="center">SaaS Admin Dashboard with React, Shadcn UI & TypeScript</h1>
 
   🛠️ Tech Stack Used:
  ➖ React (with TypeScript)
@@ -18,7 +13,7 @@
  
  ### Project Banner
  
- ![Sass Admin Dashboard](./readme-images/ProjectBanner.png "Project Banner")
+ ![Sass Admin Dashboard](../../readme-images/ProjectBanner.png "Project Banner")
 
  <br />
  <br />
