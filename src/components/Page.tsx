@@ -15,7 +15,7 @@ export const Page = ({children}: React.PropsWithChildren) => {
 export const PageHeader = () => {
   return (
     <div className='flex flex-col gap-4 lg:flex-row lg:items-center lg:justify-between'>
-      <h1 className='text-xl font-semibold lg:text-2xl'>Welcome back, Sadee</h1>
+      <h1 className='text-xl font-semibold lg:text-2xl'>Welcome back, Aditi</h1>
       <div className='flex items-center gap-3'>
         <div className='flex max-lg:hidden items-center'>
           <ThemeToggle />
